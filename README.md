@@ -4,7 +4,7 @@ Here is the classic Snake game, a simple yet incredibly addictive experience. Wh
 
 Despite its simplicity, Snake incorporates many fundamental elements of game development, such as movement, controls, collision detection, scoring, and more. By learning to program Snake, you’ll gain the skills needed to create a wide variety of other games.
 
-# Pictures
+# Here are some pictures of the game
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="retrosnake1.png" alt="Retro Snake 1" width="300" style="margin-right: 10px;">
