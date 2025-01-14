@@ -6,6 +6,7 @@ Despite its simplicity, Snake incorporates many fundamental elements of game dev
 
 # Pictures
 
-<p align="center">
-  <img src="retrosnake1.png" alt="" width="500">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="retrosnake1.png" alt="Retro Snake 1" width="300" style="margin-right: 10px;">
+  <img src="retrosnake2.png" alt="Retro Snake 2" width="300">
+</div>
