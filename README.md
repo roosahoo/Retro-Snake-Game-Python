@@ -1,4 +1,4 @@
-# Retro Snake Game // Pyth
+# Retro Snake Game // Pyt
 
 Here is the classic Snake game, a simple yet incredibly addictive experience. While it may seem basic by today’s standards, it was a huge success in its time. I developed this version using Python and the Pygame library.
 
